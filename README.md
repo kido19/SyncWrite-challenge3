@@ -58,7 +58,7 @@ A real-time collaborative document editor built with React, Node.js, Socket.IO, 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/kido19/SyncWrite-challenge3
 cd challenge3
 ```
 
