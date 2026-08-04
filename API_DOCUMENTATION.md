@@ -38,8 +38,8 @@ All API responses follow this format:
 **Request Body:**
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com", 
+  "name": "kid kinfe",
+  "email": "kid@example.com", 
   "password": "password123"
 }
 ```
@@ -50,8 +50,8 @@ All API responses follow this format:
   "token": "jwt_token_here",
   "user": {
     "id": "user_id",
-    "name": "John Doe",
-    "email": "john@example.com"
+    "name": "kid kinfe",
+    "email": "kid@example.com"
   }
 }
 ```
@@ -62,7 +62,7 @@ All API responses follow this format:
 **Request Body:**
 ```json
 {
-  "email": "john@example.com",
+  "email": "kid@example.com",
   "password": "password123"
 }
 ```
@@ -73,22 +73,22 @@ All API responses follow this format:
   "token": "jwt_token_here",
   "user": {
     "id": "user_id", 
-    "name": "John Doe",
-    "email": "john@example.com"
+    "name": "kid kinfe",
+    "email": "kid@example.com"
   }
 }
 ```
 
 ### Get Current User
-`GET /auth/me` 🔒
+`GET /auth/me` 
 
 **Response:**
 ```json
 {
   "user": {
     "id": "user_id",
-    "name": "John Doe", 
-    "email": "john@example.com"
+    "name": "kid kinfe", 
+    "email": "kid@example.com"
   }
 }
 ```
@@ -98,7 +98,7 @@ All API responses follow this format:
 ## Document Endpoints
 
 ### Get User's Documents
-`GET /documents` 🔒
+`GET /documents` 
 
 **Response:**
 ```json
@@ -137,7 +137,7 @@ All API responses follow this format:
 ```
 
 ### Create Document
-`POST /documents` 🔒
+`POST /documents` 
 
 **Request Body:**
 ```json
