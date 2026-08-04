@@ -268,6 +268,9 @@ challenge3/
 - Verify backend server is running
 - Check browser console for errors
 
+  **Video Demonstration**
+  - Google Drive link : https://drive.google.com/file/d/1oyAwLBankf6XjCxvXM_pRYB8w8-VZ2u7/view?usp=drive_link
+
 
 ## Name: Kidist Kinfe
 ## Id:CTC-015-26
