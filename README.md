@@ -75,7 +75,7 @@ cp .env.example .env
 Edit `.env` file with your MongoDB connection string:
 
 ```env
-MONGO_URI=mongodb+srv://your-username:your-password@cluster0.xxxxx.mongodb.net/syncwrite?retryWrites=true&w=majority
+MONGO_URI= your mongo url
 JWT_SECRET=your-jwt-secret-key
 PORT=5000
 CLIENT_URL=http://localhost:5173
